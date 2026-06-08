@@ -1,0 +1,16 @@
+﻿# Node/npm
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+# Expo / React Native
+.expo/
+.expo-shared/
+# Build
+dist/
+web-build/
+# local env
+.env*
+# OS/IDE
+.vscode/
+.DS_Store
