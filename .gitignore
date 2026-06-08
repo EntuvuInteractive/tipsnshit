@@ -14,3 +14,4 @@ web-build/
 # OS/IDE
 .vscode/
 .DS_Store
+tip-calculator/
